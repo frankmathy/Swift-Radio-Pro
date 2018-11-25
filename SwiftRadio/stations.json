@@ -1,6 +1,13 @@
 {
     "station":
     [
+        {
+            "name": "Peli One",
+            "streamURL": "http://login.streamplus.de/player.php?spt=5528.m3u",
+            "imageURL": "pelione.jpg",
+            "desc": "Urban music radio",
+            "longDesc": "Your new urban music radio live from Berlin."
+        },
      {
      "name": "Absolute Country Hits",
      "streamURL": "http://strm112.1.fm/acountry_mobile_mp3",
